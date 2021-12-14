@@ -1,0 +1,11 @@
+!.gitkeep
+!.gitignore
+!*.dll
+[Oo]bj
+[Bb]in
+.idea
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+.vs
